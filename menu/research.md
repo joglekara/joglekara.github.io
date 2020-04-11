@@ -9,8 +9,8 @@ title: Research
 During my undergraduate career, I was fortunate to work with Professor Tim Chupp, and Professor Ron Gilgenbach before 
 eventually working with Professor Alec Thomas. 
 
-With Prof. Chupp, I wrote my first scientific software - a charged particle tracking routine in a static magnetic field 
-- and attended my first research group meetings. 
+With Prof. Chupp, I wrote my first scientific software - a charged particle tracking routine in a static magnetic field - 
+and attended my first research group meetings. 
 
 With Prof. Gilgenbach and the Plasma, Pulsed Power, and Microwave Laboratory, I learned how researchers operate in an 
 experimental setting. 
