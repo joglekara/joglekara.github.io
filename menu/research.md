@@ -37,7 +37,7 @@ To perform research on the above topics, I've had to dive into the following top
 
 
 ## Deep Learning
-You can find more of a narrative [here.](./deep_learning_research.md) but I've been involved in theh following work 
+You can find more of a narrative [here.](./deep_learning_research.md) but I've been involved in the following work 
 so far
 
 ### Research
@@ -49,7 +49,7 @@ so far
 
 ### Computation
 - Scalable model experimentation
-- Building architecture for logging and hyperparameter searches
+- Building architecture for model logging and hyper-parameter searches
 - Advanced Diagnostics Development (to build and improve upon MSE, MAE etc. for specific problems)
 - Distributed Training on Cloud infrastructures (AWS, GCP)
 - Contributing to TensorFlow and JAX.
