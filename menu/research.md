@@ -61,7 +61,7 @@ so far
 I have authored or co-authored publications in `Physical Revew Letters`, `Physical Review X`, and `Physical Review E` 
 amongst others. I have contributed to open-source software (e.g. `Tensorflow`, `JAX`) and maintain projects of my own.
 
-My Google Scholar page [can be found here.](https://scholar.google.com/citations?user=E8MzWzsAAAAJ&hl=en).
+My Google Scholar page [can be found here.](https://scholar.google.com/citations?user=E8MzWzsAAAAJ&hl=en)
 
 My GitHub page [is here](https://github.com/joglekara).
 

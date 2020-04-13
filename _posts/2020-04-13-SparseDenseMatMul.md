@@ -4,6 +4,7 @@ title: "Sparse Dense Multiplication in Tensorflow"
 author: "Archis Joglekar"
 categories: journal
 tags: [Tensorflow, Sparse Matrix, Scientific Computing, OSS]
+image: sparse-dense.png
 ---
 
 Sparse-matrix-based computations are an important subset of scientific computing. For example, performing
