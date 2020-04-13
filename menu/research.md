@@ -4,8 +4,8 @@ title: Research
 ---
 
 ## Deep Learning
-You can find more of a narrative [here.](./deep_learning_research.md) but I've been involved in the following work 
-so far
+I've been involved in the following work so far. This involves leveraging many skills from my time in academic research.
+You can find more of a narrative [here.](./deep_learning_research.md).
 
 ### Research
 - Sparse Neural Networks
