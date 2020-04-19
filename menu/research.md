@@ -56,7 +56,9 @@ To perform research on the above topics, I've had to dive into the following top
 - Stiff Partial Differential Equations
 - Orthogonal Decompositions (Fourier, Hermite, Legendre, Spherical Harmonics)
 
-### Miscellaneous
+--------------------
+
+## Miscellaneous
 I have authored or co-authored publications in `Physical Revew Letters`, `Physical Review X`, and `Physical Review E` 
 amongst others. I have contributed to open-source software (e.g. `Tensorflow`, `JAX`) and maintain projects of my own.
 
