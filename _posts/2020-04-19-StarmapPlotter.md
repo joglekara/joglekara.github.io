@@ -10,7 +10,7 @@ image: rc-1.778e-05.png
 The ability to visualize information convincingly is an essential part of any computational scientists toolkit. There
 are plenty of libraries out there, and many are based on `matplotlib`. In my case, I've primarily stuck to the
 boilerplate-heavy `matplotlib`. On top of the boilerplate, writing a figure to a file can be quite slow. Plotting 100s
-of figures sequentially can become quite painful.
+of figures sequentially can become really painful.
 
 For example, you may be plotting resonance curves, like the one near the title of this page, but for a range of
 wavenumbers and damping rates. The above curve was generated using the following code
