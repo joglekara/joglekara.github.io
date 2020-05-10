@@ -103,14 +103,16 @@ def plot_resonance_curves_for_inferences(training_data, infer_data, folders):
     """
 
     args_list = get_plotting_args(training_data, infer_data, folders)
-    cpu_pool = mp.Pool(processes=mp.cpu_count() - 1 or 1)
-    cpu_pool.starmap(plot_resonance_curve, args_list)
-    cpu_pool.close()
-    cpu_pool.join()
+    
+    with mp.Pool(processes=mp.cpu_count() - 1 or 1) as cpu_pool:
+        cpu_pool.starmap(plot_resonance_curve, args_list)
+    
 ```
 
 First, you get a list of all the arguments for each figure. Then, you make a `Pool` of `mp.cpu_count() - 1 or 1`
 processes. I typically subtract 1 because it leaves 1 core open for my use, in case this is running locally.
+
+(05/10/2020 EDIT - I changed the syntax to use a `with` block instead of `.close(), .join()`)
 
 Another thing to keep in mind is that in OSX, you have to set `export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES` in 
 your profile, or at least, before your `python` call. This doesn't have to be done on any versions of linux that I've
