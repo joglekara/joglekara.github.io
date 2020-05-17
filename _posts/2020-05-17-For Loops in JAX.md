@@ -4,7 +4,7 @@ title: "Parallel Plotting in Python"
 author: "Archis Joglekar"
 categories: journal
 tags: [Differentiable Physics, Scientific Computing, High Performance Computing]
-image: fluid_density_evolution
+image: fluid_density_evolution.png
 ---
 JAX [1] is this amazing creation that combines Autograd and XLA, and opens up a world of possibilities. 
 That's a topic for another time.
