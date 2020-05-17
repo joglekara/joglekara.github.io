@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parallel Plotting in Python"
+title: "For Loops in JAX"
 author: "Archis Joglekar"
 categories: journal
 tags: [Differentiable Physics, Scientific Computing, High Performance Computing]
