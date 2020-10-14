@@ -3,11 +3,13 @@ layout: page
 title: Research
 ---
 
-## Deep Learning
+## Differentiable Programming / Deep Learning
 I've been involved in the following work so far. This involves leveraging many skills from my time in academic research.
 You can find more of a narrative [here.](./deep_learning_research.md)
 
 ### Research
+- Irregularly sampled time-series
+- Multi-modal data fusion 
 - Sparse Neural Networks
 - Differentiable Scientific Programming
 - Inverse Design
