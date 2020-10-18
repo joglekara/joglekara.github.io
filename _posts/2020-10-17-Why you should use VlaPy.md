@@ -4,9 +4,10 @@ title: "Why you should use VlaPy"
 author: "Archis Joglekar"
 categories: journal
 tags: [Python, Scientific Computing, High Performance Computing, Plasma Physics]
+image: nlepw.png
 ---
 
-VlaPy was recently [published]{https://github.com/joglekara/vlapy} in the [Journal of Open Source Software]{https://joss.theoj.org/}. 
+VlaPy was recently [published](https://github.com/joglekara/vlapy) in the [Journal of Open Source Software](https://joss.theoj.org/). 
 It is a Pythonic, Vlasov-Poisson-Fokker-Planck simulation code that is advanced in the plasma physics features that are implemented,
 the integrators it uses for the partial differential equation, the simulation management toolkit that it relies upon, and 
 in the performance it exhibits. 
