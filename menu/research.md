@@ -8,8 +8,6 @@ I've been involved in the following work so far. This involves leveraging many s
 You can find more of a narrative [here.](./deep_learning_research.md)
 
 ### Research
-- Irregularly sampled time-series
-- Multi-modal data fusion 
 - Sparse Neural Networks
 - Differentiable Scientific Programming
 - Inverse Design

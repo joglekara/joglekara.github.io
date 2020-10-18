@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'JogA Blog'
-description:	       'Just a place to put my thoughts'
+description:	       'Scientific Computing, Differentiable Programming, Machine Learning, Plasma Physics'
 author:              'Archis Joglekar'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
