@@ -7,10 +7,10 @@ tags: [Python, Scientific Computing, High Performance Computing, Plasma Physics]
 image: nlepw.png
 ---
 
-VlaPy was recently [published](https://github.com/joglekara/vlapy) in the [Journal of Open Source Software](https://joss.theoj.org/). 
-It is a Pythonic, Vlasov-Poisson-Fokker-Planck simulation code that is advanced in the plasma physics features that are implemented,
-the integrators it uses for the partial differential equation, the simulation management toolkit that it relies upon, and 
-in the performance it exhibits. 
+[VlaPy](https://github.com/joglekara/vlapy) was recently [published](https://joss.theoj.org/papers/10.21105/joss.02182) 
+in the [Journal of Open Source Software](https://joss.theoj.org/). It is a Pythonic, Vlasov-Poisson-Fokker-Planck simulation 
+code that distinguishes itself because of the plasma physics features it contains, the novel implementations of the integrators 
+it uses for the partial differential equation, the simulation management toolkit that it relies upon, and in the performance it exhibits. 
 
 Here's a high level summary of why you should use VlaPy:
 
