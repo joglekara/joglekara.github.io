@@ -24,3 +24,4 @@ Here's a high level summary of why you should use VlaPy:
     - you like to think about how to write modular simulation software
     - you want to know more about the scientific Python stack
     - you like to think about architecting research software for modeling (Machine-Learning or otherwise)
+    - you perform research in non-linear dynamical systems
